@@ -1,1 +1,1 @@
-This repo if for shell basics tasks
+This repo is for shell basics tasks
